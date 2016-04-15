@@ -1,9 +1,8 @@
-# adapt-hotgrid
+# adapt-lightbox
 
-**Hotgrid** is a *presentation component* which displays a set of images in a grid layout. 
+Lighbox is based on CGKineo's **Hotgrid** and is a *presentation component* which displays a pop-up window containing a larger version of a standard graphic when clicked on. 
 
-When a learner selects an image, a pop-up is displayed that consists of text with an image.
-
+THIS IS A WORK IN PROGRESS AND MUST NOT BE USED UNTIL RELEASED!
 ## Settings Overview
 
 The attributes listed below are used in *components.json* to configure **Hotgrid**, and are properly formatted as JSON in [*example.json*](https://github.com/cgkineo/adapt-hotgrid/blob/master/example.json). 
